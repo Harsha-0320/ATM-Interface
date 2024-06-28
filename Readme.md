@@ -4,7 +4,7 @@
 **Overview**
 -
 - ATM Interface is simply an interface which displays basic ATM facilities only when user enters correct username and pin-number as per registered in the code.
-It shows Transaction History, Deposit, Withdraw, Balance, Transfer function
+It shows Transaction History, Deposit, Withdraw, Balance, Transfer function.
 - It provides only 3 attempts for the user to enter correct username and pin-number. Once the attempts are over the user is exited from the interface.
 
 **Features**
